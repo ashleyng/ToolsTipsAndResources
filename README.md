@@ -4,8 +4,8 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
 * [Tools](#tools)
   * Carbon
   * Adobe Color Wheel
-  * oh-my-zsh 
   * APPLAUNCHPAD
+  * oh-my-zsh 
 * [Tips](#tips)
   * XCode Playground Scratchpad
   * Version Managers
@@ -30,7 +30,8 @@ A framework to manage zsh configurations, but let's be real, we all probably onl
 
 # Tips
 ## XCode Playground Scratchpad
-Add a Playground to your dock to easily access to test concepts.
+Add a Playground to your dock to easily access to test concepts. Here's a snippet of some things I have in my scratchpad (don't ask why I have them)
+![Scratchpad Example](resouces/scratchpad.png)
 ![Playground Scratchpad](resouces/playground-scratchpad.png)
 ## Version Managers
 **ALWAYS USE THEM!!!** I have nvm and rvm setup for my local development. When apps and repos have different requirements to build, using a version manager is a lifesaver.
