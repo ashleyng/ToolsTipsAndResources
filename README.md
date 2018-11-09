@@ -5,6 +5,7 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
   * Carbon
   * Adobe Color Wheel
   * oh-my-zsh 
+  * APPLAUNCHPAD
 * [Tips](#tips)
   * XCode Playground Scratchpad
   * Version Managers
@@ -17,14 +18,15 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
 ## [Carbon](https://carbon.now.sh)
 Share images of your source code. Wide selection of color themes and languages to choose from.
 ![Unit Test Snippet](resouces/carbon.png)
-
 ## [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 Choose between different color harmonies to find colors that go well together.
 ![Adobe Color Wheel](resouces/adobe-color-wheel.png)
-
+## [APPLAUNCHPAD](https://theapplaunchpad.com/)
+Tool to place your app screenshots into mockups.
+![mockup](resouces/mockup.png)
 ## [oh-my-zsh](https://ohmyz.sh/)
 A framework to manage zsh configurations, but let's be real, we all probably only use this for the terminal themes 
-![zsh-termina](resouces/zsh-terminal.png)
+![zsh-terminal](resouces/zsh-terminal.png)
 
 # Tips
 ## XCode Playground Scratchpad
