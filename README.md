@@ -6,6 +6,7 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
   * Adobe Color Wheel
   * APPLAUNCHPAD
   * oh-my-zsh 
+  * Pocket
 * [Tips](#tips)
   * XCode Playground Scratchpad
   * Version Managers
@@ -27,6 +28,9 @@ Tool to place your app screenshots into mockups.
 ## [oh-my-zsh](https://ohmyz.sh/)
 A framework to manage zsh configurations, but let's be real, we all probably only use this for the terminal themes 
 ![zsh-terminal](resouces/zsh-terminal.png)
+## [Pocket](https://getpocket.com/)
+Save articles, videos, and stories from any web page. I primarily use it to save articles to read. 
+![pocket](resouces/pocket.png)
 
 # Tips
 ## XCode Playground Scratchpad
