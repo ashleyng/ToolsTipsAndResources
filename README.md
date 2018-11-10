@@ -4,9 +4,9 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
 * [Tools](#tools)
   * Carbon
   * Adobe Color Wheel
-  * APPLAUNCHPAD
   * oh-my-zsh 
   * Pocket
+  * BetterSnapTool/Magnet
 * [Tips](#tips)
   * XCode Playground Scratchpad
   * Version Managers
@@ -22,15 +22,18 @@ Share images of your source code. Wide selection of color themes and languages t
 ## [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 Choose between different color harmonies to find colors that go well together.
 ![Adobe Color Wheel](resouces/adobe-color-wheel.png)
-## [APPLAUNCHPAD](https://theapplaunchpad.com/)
-Tool to place your app screenshots into mockups.
-![mockup](resouces/mockup.png)
 ## [oh-my-zsh](https://ohmyz.sh/)
 A framework to manage zsh configurations, but let's be real, we all probably only use this for the terminal themes 
 ![zsh-terminal](resouces/zsh-terminal.png)
 ## [Pocket](https://getpocket.com/)
 Save articles, videos, and stories from any web page. I primarily use it to save articles to read. 
 ![pocket](resouces/pocket.png)
+## BetterSnapTool/Magnet
+MacOS apps that allows you to snap windows to areas of the screen (left half, left two-thirds, right half, top half, etc), and both support keyboard shortcuts.
+
+[BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12)
+
+[Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
 
 # Tips
 ## XCode Playground Scratchpad
