@@ -7,7 +7,8 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
   * oh-my-zsh 
   * Pocket
   * BetterSnapTool/Magnet
-  * VSCode (and Extensions)
+  * VSCode Extensions
+  * Chrome Extensions
 * [Tips](#tips)
   * XCode Playground Scratchpad
   * Version Managers
@@ -19,32 +20,40 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
 # Tools
 ## [Carbon](https://carbon.now.sh)
 Share images of your source code. Wide selection of color themes and languages to choose from.
-![Unit Test Snippet](resouces/carbon.png)
+<img src="resouces/carbon.png" height="500">
 ## [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 Choose between different color harmonies to find colors that go well together.
-![Adobe Color Wheel](resouces/adobe-color-wheel.png)
+<img src="resouces/adobe-color-wheel.png" height="500">
 ## [oh-my-zsh](https://ohmyz.sh/)
-A framework to manage zsh configurations, but let's be real, we all probably only use this for the terminal themes 
-![zsh-terminal](resouces/zsh-terminal.png)
+A framework to manage zsh configurations, but let's be real, we all probably only use this for the terminal themes.
+<img src="resouces/zsh-terminal.png" height="300">
 ## [Pocket](https://getpocket.com/)
 Save articles, videos, and stories from any web page. I primarily use it to save articles to read. 
-![pocket](resouces/pocket.png)
+<img src="resouces/pocket.png" height="400">
 ## BetterSnapTool/Magnet
 MacOS apps that allows you to snap windows to areas of the screen (left half, left two-thirds, right half, top half, etc), and both support keyboard shortcuts.
 
 [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12)
 
 [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
-## VSCode
+## VSCode Extensions
 Even though I'm primarily a native mobile developer, I occassionally do React Native or React development, or just need to use it for other things. Here are a few extensions I use:
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) (Whenever I'm too lazy to open up XCode for a podfile)
+## Chrome Extensions
+Extensions I have installed
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+* [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij)
+* [New Tab Draft](https://chrome.google.com/webstore/detail/new-tab-draft/nmfjkeiebceinkbggliapgfdjphocpdh)
+
 
 # Tips
 ## XCode Playground Scratchpad
-Add a Playground to your dock to easily access to test concepts. Here's a snippet of some things I have in my scratchpad (don't ask why I have them)
-![Scratchpad Example](resouces/scratchpad.png)
-![Playground Scratchpad](resouces/playground-scratchpad.png)
+Add a Playground to your dock to easily access to test concepts. Here's a snippet of some things I have in my scratchpad (don't ask why I have them).
+
+<img src="resouces/scratchpad.png" height="300">\
+<img src="resouces/playground-scratchpad.png" height="100">
+
 ## Version Managers
 **ALWAYS USE THEM!!!** I have nvm and rvm setup for my local development. When apps and repos have different requirements to build, using a version manager is a lifesaver.
 ## [Slack Themes](https://slackthemes.net)
