@@ -7,6 +7,7 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
   * oh-my-zsh 
   * Pocket
   * BetterSnapTool/Magnet
+  * MarvelApp
   * VSCode Extensions
   * Chrome Extensions
 * [Tips](#tips)
@@ -36,6 +37,8 @@ MacOS apps that allows you to snap windows to areas of the screen (left half, le
 [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12)
 
 [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
+## [MarvelApp](https://marvelapp.com/)
+I use this to mockup the apps I build in my spare time. It has a free option, but it limits you to only two projects
 ## VSCode Extensions
 Even though I'm primarily a native mobile developer, I occassionally do React Native or React development, or just need to use it for other things. Here are a few extensions I use:
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
