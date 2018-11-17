@@ -42,7 +42,7 @@ I use this to mockup the apps I build in my spare time. It has a free option, bu
 ## VSCode Extensions
 Even though I'm primarily a native mobile developer, I occassionally do React Native or React development, or just need to use it for other things. Here are a few extensions I use:
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-* [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) (Whenever I'm too lazy to open up XCode for a podfile)
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 ## Chrome Extensions
 Extensions I have installed
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
