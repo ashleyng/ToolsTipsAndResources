@@ -8,6 +8,7 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
   * Pocket
   * BetterSnapTool/Magnet
   * MarvelApp
+  * Expo
   * VSCode Extensions
   * Chrome Extensions
 * [Tips](#tips)
@@ -17,6 +18,7 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
 * [Resources](#resouces)
   * Swift by Sundell
   * Ray Wenderlich
+  * Unsure Programmer (Youtube Channel)
 
 # Tools
 ## [Carbon](https://carbon.now.sh)
@@ -39,10 +41,13 @@ MacOS apps that allows you to snap windows to areas of the screen (left half, le
 [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
 ## [MarvelApp](https://marvelapp.com/)
 I use this to mockup the apps I build in my spare time. It has a free option, but it limits you to only two projects
+## [Expo](https://expo.io/)
+A tool for React Native projects. Expo makes it super easy to start, build, and develop a React Native project. You can also post your projects on their website, and although I haven't published a RN app yet, they also have instructions to push to both the Play Store and the App Store
 ## VSCode Extensions
 Even though I'm primarily a native mobile developer, I occassionally do React Native or React development, or just need to use it for other things. Here are a few extensions I use:
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 ## Chrome Extensions
 Extensions I have installed
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
@@ -67,3 +72,5 @@ Are you not creative enough to make your own Slack theme? Are there too many col
 A weekly blog about swift development by John Sundell. They're short and easily digestable blogs. Just enough explanation to understand, as well as examples and code snippets to go along with it. 
 ## [Ray Wenderlich](https://www.raywenderlich.com/)
 If you learn best by doing, this is the site for you. They have a lot of step-by-step tutorials that cover a lot of the core topics. It's everything you'd ever need to get your foot in the door to build and ship your first app. 
+## [Unsure Programmer](https://www.youtube.com/channel/UCiNWv52iO_OAdZ12kslG4Cg/videos)
+A lot of really good React Native tutorials. He goes through some pretty cool animation recreations, and has a few Redux tutorials.
