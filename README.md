@@ -1,4 +1,5 @@
 # Tools Tips and Resources
+
 I'm always in search of handy tools, tips, and resources to make my life easier or to learn something new; anything from note taking apps, tools to help build my next app, or blogs to read to stay in the know. Here is a culmination of the things I use. 
 
 **Checkout the parent page of each section to read a short snippet of each item.**
@@ -22,3 +23,4 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
   * [Swift by Sundell](https://www.swiftbysundell.com/)
   * [Ray Wenderlich](https://www.raywenderlich.com/)
   * [Unsure Programmer](https://www.youtube.com/channel/UCiNWv52iO_OAdZ12kslG4Cg/videos) (Youtube Channel)
+  * [Udemy](https://www.udemy.com)
