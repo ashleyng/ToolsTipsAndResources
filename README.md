@@ -7,6 +7,7 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
 * [Tools](Tools.md)
   * [Carbon](https://carbon.now.sh)
   * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
+  * [Material Design Color Tool](https://material.io/tools/color)
   * [oh-my-zsh](https://ohmyz.sh/)
   * [Pocket](https://getpocket.com/)
   * [BetterSnapTool/Magnet](Tools.md#BetterSnapTool/Magnet)

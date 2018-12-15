@@ -10,6 +10,11 @@ Share images of your source code. Wide selection of color themes and languages t
 Choose between different color harmonies to find colors that go well together.
 <img src="resouces/adobe-color-wheel.png" height="500">
 
+## [Material Design Color Tool](https://material.io/tools/color)
+
+The tool allows you to choose those colors and see a quick snapshot of how an app would look with the color scheme.
+<img src="resouces/material-design1.png" height="500"> <img src="resouces/material-design2.png" height="500">  
+
 ## [oh-my-zsh](https://ohmyz.sh/)
 
 A framework to manage zsh configurations, but let's be real, we all probably only use this for the terminal themes.
