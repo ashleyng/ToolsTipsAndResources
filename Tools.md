@@ -37,9 +37,21 @@ MacOS apps that allows you to snap windows to areas of the screen (left half, le
 
 If you're running out of disk space on your computer, this will sweep your computer to show you the directories that have the most memory usage. I use this quite often to clean up a lot of Xcode directories.
 
+## [Sketch](https://www.sketchapp.com/)
+
+I actually held out on buying Sketch for the longest time, and just got by with their free trial. It wasn't till I watched a YouTube tutorial that I realized the power behind Sketch. I use it for mockup as well as creating background images, logos, and icon. 
+
 ## [MarvelApp](https://marvelapp.com/)
 
 I use this to mockup the apps I build in my spare time. It has a free option, but it limits you to only two projects
+
+## AppStore Screenshot Creators
+
+These tools make it easy to create screenshots to submit to the AppStore. There are pros and cons to each, but they all work really well.
+
+* [AppInstitue](https://screenshot-maker.appinstitute.com)
+* [AppLaunch](https://theapplaunchpad.com)
+* [MockUPhone](https://mockuphone.com)
 
 ## [Expo](https://expo.io/)
 
