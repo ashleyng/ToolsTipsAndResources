@@ -15,6 +15,7 @@ I'm always in search of handy tools, tips, and resources to make my life easier 
   * [Sketch](https://www.sketchapp.com/)
   * [MarvelApp](https://marvelapp.com/)
   * [AppStore Screenshot Creator](Tools.md#appstore-screenshot-creator)
+  * [Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/#)
   * [Expo](https://expo.io/)
   * [VSCode Extensions/Themes](Tools.md#vscode-extensions)
   * [Chrome Extensions](Tools.md#chrome-extensions)

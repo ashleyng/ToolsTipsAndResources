@@ -53,6 +53,10 @@ These tools make it easy to create screenshots to submit to the AppStore. There 
 * [AppLaunch](https://theapplaunchpad.com)
 * [MockUPhone](https://mockuphone.com)
 
+## [Privacy Policy Creator](https://app-privacy-policy-generator.firebaseapp.com/#)
+
+Now that Apple requires all apps submit a privacy, this app generates one for you with commonly used 3rd-party tools such as Firebase, Fabric, Crashlytics and more.
+
 ## [Expo](https://expo.io/)
 
 A tool for React Native projects. Expo makes it super easy to start, build, and develop a React Native project. You can also post your projects on their website, and although I haven't published a RN app yet, they also have instructions to push to both the Play Store and the App Store
