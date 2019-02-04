@@ -50,8 +50,10 @@ I use this to mockup the apps I build in my spare time. It has a free option, bu
 These tools make it easy to create screenshots to submit to the AppStore. There are pros and cons to each, but they all work really well.
 
 * [AppInstitue](https://screenshot-maker.appinstitute.com)
+  * Used to submit screenshots to the App Store
 * [AppLaunch](https://theapplaunchpad.com)
 * [MockUPhone](https://mockuphone.com)
+  * Used to post screenshots of my app to my personal website
 
 ## [Privacy Policy Creator](https://app-privacy-policy-generator.firebaseapp.com/#)
 
