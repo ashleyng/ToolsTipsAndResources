@@ -14,4 +14,7 @@ ps = push
 b = branch
 pf = push -f
 cma = comment --amend
+a = add
+l = log
+co-- = checkout --
 ```
